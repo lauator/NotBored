@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size">40sp</dimen>
+    <dimen name="title_terms">29sp</dimen>
+    <dimen name="btn">24dp</dimen>
+    <dimen name="btn_bottom">32dp</dimen>
+    <dimen name="tv_terms_top">8dp</dimen>
+    <dimen name="text_input">10dp</dimen>
+    <dimen name="tv_participants">16dp</dimen>
+    <dimen name="terms_margin">40dp</dimen>
+    <dimen name="title_margin">24dp</dimen>
+    <dimen name="text_margin">32dp</dimen>
+
+</resources>
